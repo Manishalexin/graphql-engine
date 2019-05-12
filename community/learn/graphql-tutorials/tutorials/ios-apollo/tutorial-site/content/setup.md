@@ -29,10 +29,10 @@ $ carthage update --platform iOS
 
 This is what you should see after the steps above:
 
-![Boilerplate login](./assets/boilerplate-login.png )
-![Boilerplate after login](./assets/boilerplate-todos-landing-selected.png)
-![Boilerplate feed](./assets/boilerplate-feed.png)
-![Boilerplate online](./assets/boilerplate-online.png)
+![Boilerplate login](https://graphql-engine-cdn.hasura.io/learn-hasura/assets/graphql-ios/boilerplate-login.png )
+![Boilerplate after login](https://graphql-engine-cdn.hasura.io/learn-hasura/assets/graphql-ios/boilerplate-todos-landing-selected.png)
+![Boilerplate feed](https://graphql-engine-cdn.hasura.io/learn-hasura/assets/graphql-ios/boilerplate-feed.png)
+![Boilerplate online](https://graphql-engine-cdn.hasura.io/learn-hasura/assets/graphql-ios/boilerplate-online.png)
 
 ### Load GraphiQL to play with your GraphQL APIs
 
@@ -41,4 +41,4 @@ This is what you should see after the steps above:
 
 This is what you should see after the steps above:
 
-![GraphiQL after login](./assets/graphiql-after-login.png)
+![GraphiQL after login](https://graphql-engine-cdn.hasura.io/learn-hasura/assets/graphql-react/graphiql-after-login.png)
